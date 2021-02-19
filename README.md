@@ -1,0 +1,1 @@
+# Aplicativo feito em React Native no módulo 1 de React Native da Alura.
